@@ -103,4 +103,4 @@ avion = Millas()
 avion.distancia = 200
 
 # Obtenemos su atributo distancia
-print(avion.definir..distancia)
+print(avion.definir.distancia)
